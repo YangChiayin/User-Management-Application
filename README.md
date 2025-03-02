@@ -1,5 +1,5 @@
 # User Management Application
-<img src="https://github.com/user-attachments/assets/e9221068-215e-46e4-83e8-3e88044c80e2" width="500" />
+<img src="https://github.com/user-attachments/assets/e9221068-215e-46e4-83e8-3e88044c80e2" width="600" />
 
 ## Overview
 
